@@ -1,7 +1,7 @@
 {
   "name": "@jiho-hooks/use-coords",
-  "version": "1.0.0",
-  "description": "React hook to find latitude, longitude, and radius around.",
+  "version": "1.0.1",
+  "description": "React hook to find latitude, longitude, and radius around",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,12 +14,10 @@
     "react",
     "react",
     "hook",
-    "hooks",
     "latitude",
-    "longitude",
-    "coords"
+    "longitude"
   ],
-  "author": "frontend902 <frontend902@gmail.com>",
+  "author": "jiho <frontend902@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/frontWeb-dev/jiho-hooks/issues"
